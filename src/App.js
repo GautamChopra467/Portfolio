@@ -8,9 +8,9 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
     <Routes>
-      <Route path='/' element={<Home />} />
+      <Route exact path='/portfolio' element={<Home />} />
       <Route path='/about' element={<About />} />
       <Route path='/project' element={<Project />} />
       <Route path='/contact' element={<Contact />} />
