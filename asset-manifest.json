@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://gautamchopra467.github.io/portfolio/static/css/main.4bb3aa15.css",
-    "main.js": "https://gautamchopra467.github.io/portfolio/static/js/main.5b4b6e4d.js",
+    "main.js": "https://gautamchopra467.github.io/portfolio/static/js/main.fa6df530.js",
     "static/media/3.png": "https://gautamchopra467.github.io/portfolio/static/media/3.6f15f36adc83572d41b2.png",
     "static/media/4.png": "https://gautamchopra467.github.io/portfolio/static/media/4.b93394cba66df3a5f6df.png",
     "static/media/5.png": "https://gautamchopra467.github.io/portfolio/static/media/5.1c849b260e716c6aa071.png",
@@ -11,10 +11,10 @@
     "static/media/intro-bg.jpg": "https://gautamchopra467.github.io/portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
     "index.html": "https://gautamchopra467.github.io/portfolio/index.html",
     "main.4bb3aa15.css.map": "https://gautamchopra467.github.io/portfolio/static/css/main.4bb3aa15.css.map",
-    "main.5b4b6e4d.js.map": "https://gautamchopra467.github.io/portfolio/static/js/main.5b4b6e4d.js.map"
+    "main.fa6df530.js.map": "https://gautamchopra467.github.io/portfolio/static/js/main.fa6df530.js.map"
   },
   "entrypoints": [
     "static/css/main.4bb3aa15.css",
-    "static/js/main.5b4b6e4d.js"
+    "static/js/main.fa6df530.js"
   ]
 }
